@@ -6,7 +6,7 @@ const WorkoutSessions = () => {
 <div className="wrapper">
 <h1> TOP WORKOUT SESSION</h1>
 <p> 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet rem in vel quia, neque iusto.
+    Lorem ips dolor sit amet, consectetur adipisicing elit. Amet rem in vel quia, neque iusto.
 
 </p>
 <img src="/img5.jpg" alt="workout"/>
@@ -14,7 +14,7 @@ const WorkoutSessions = () => {
 <div className="wrapper">
 <h1>FEATURED BOOTCAMPS</h1>
 <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo tempora, tenetur repellat corrupti magni numquam.
+    Lorem ips dolor sit amet consectetur adipisicing elit. Illo tempora, tenetur repellat corrupti magni numquam.
 </p>
 <div className="bootcamps">
     <diV>
