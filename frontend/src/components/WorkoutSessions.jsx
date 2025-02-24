@@ -6,40 +6,40 @@ const WorkoutSessions = () => {
 <div className="wrapper">
 <h1> TOP WORKOUT SESSION</h1>
 <p> 
-    Lorem ips dolor sit amet, consectetur adipisicing elit. Amet rem in vel quia, neque iusto.
-
+Achieve your fitness goals with our expert-designed workout programs. Whether you're focusing on strength training, endurance, or fat loss, our sessions are tailored to push your limits and maximize results.
 </p>
 <img src="/img5.jpg" alt="workout"/>
 </div>
 <div className="wrapper">
 <h1>FEATURED BOOTCAMPS</h1>
 <p>
-    Lorem ips dolor sit amet consectetur adipisicing elit. Illo tempora, tenetur repellat corrupti magni numquam.
+Join our high-energy bootcamps to build strength, burn calories, and stay motivated with a supportive community. Train with top instructors and push yourself to the next level.
 </p>
 <div className="bootcamps">
     <diV>
-    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    <h4>🔥 Strength & Conditioning Bootcamp.
 
     </h4>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore, commodi cumque voluptate doloribus laboriosam vero.</p>
+    <p>Increase muscle strength and improve endurance with high-intensity strength training. Perfect for those looking to build a strong, lean body.</p>
     </diV>
     <diV>
-    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    <h4>💪 HIIT (High-Intensity Interval Training) Bootcamp
 
     </h4>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore, commodi cumque voluptate doloribus laboriosam vero.</p>
+    <p>Torch calories and improve cardiovascular fitness with short bursts of intense exercise, followed by recovery periods. Get fit in less time!</p>
     </diV>
     <diV>
-    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
+    <h4>🏋️ Functional Fitness Bootcamp
     </h4>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore, commodi cumque voluptate doloribus laboriosam vero.</p>
+    <p>LEnhance mobility, balance, and overall fitness with exercises that mimic real-life movements. Ideal for athletes and everyday fitness enthusiasts.</p>
     </diV>
     <diV>
-    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    <h4>🚀 Fat-Burning Bootcamp
 
     </h4>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore, commodi cumque voluptate doloribus laboriosam vero.</p>
+    <p>Lose weight and tone your body with a mix of strength, cardio, and metabolic conditioning workouts. Burn fat faster and feel more energetic!
+
+</p>
     </diV>
     
 </div>
