@@ -11,7 +11,7 @@ const Pricing = () => {
       },
 
       {  imgUrl:"/pricing.jpg",
-        title: "HEAL_YEARLY",
+        title: "HALF YEARLY",
         price: 35000,
         length: 6
         
